@@ -1,2 +1,0 @@
-# Nemanja-Todorovic
-nema.
