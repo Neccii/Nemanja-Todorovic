@@ -74,5 +74,5 @@ input[type="submit"]:hover {
 }
 textarea {
     height: 180px;
-    width: 450px; /* ili 100px, po želji */
+    width: 450px; 
 }
